@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5021
     wikipedia: http://en.wikipedia.org/wiki/Roland_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13360#Missionary-Survey-As-An-Aid-To-Intelligent-Co-Operation-In-Foreign-Missions
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
