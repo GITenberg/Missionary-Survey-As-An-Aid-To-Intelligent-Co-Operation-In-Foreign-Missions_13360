@@ -1,0 +1,32 @@
+_repo: Missionary-Survey-As-An-Aid-To-Intelligent-Co-Operation-In-Foreign-Missions_13360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cochrane, Thomas
+    birthdate: 1866
+    deathdate: 1953
+    gutenberg_agent_id: '39813'
+    url: http://www.gutenberg.org/2009/agents/39813
+  - agent_name: Allen, Roland
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '5021'
+    url: http://www.gutenberg.org/2009/agents/5021
+    wikipedia: http://en.wikipedia.org/wiki/Roland_Allen
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Missions'
+title: Missionary Survey As An Aid To Intelligent Co-Operation In Foreign Missions
+url: http://www.gutenberg.org/ebooks/13360
